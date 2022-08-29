@@ -7,8 +7,12 @@ const App = () => {
   };
 
   return (
-    <div className="site-calendar-demo-card">
-      <Calendar fullscreen={false} onPanelChange={onPanelChange} />
+    <div className="site-calendar-demo-card ">
+      <Calendar
+        className="glassBackground"
+        fullscreen={false}
+        onPanelChange={onPanelChange}
+      />
     </div>
   );
 };

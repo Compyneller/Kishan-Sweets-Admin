@@ -19,3 +19,10 @@
 .loading .ant-spin {
   color: #3e79f7;
 }
+
+.customBackground {
+  background-color: #00DBDE;
+background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+
+}
+

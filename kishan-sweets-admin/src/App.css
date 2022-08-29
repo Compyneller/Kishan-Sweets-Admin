@@ -1,0 +1,28 @@
+.glassBackground {
+  /* From https://css.glass */
+background: rgba(255, 255, 255, 0.2) !important;
+border-radius: 16px !important;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+backdrop-filter: blur(10.9px) !important;
+-webkit-backdrop-filter: blur(10.9px) !important;
+border: 1px solid rgba(255, 255, 255, 0.3) !important;
+}
+body{
+  overflow-x: hidden;
+}
+.App{
+  min-height: 100vh;
+  width: 100%;
+  background-color: #21D4FD;
+  background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+  /* padding: 2rem ; */
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  padding: 2rem 0;
+}
+.mainContainer{
+  width: 95%;
+  
+}

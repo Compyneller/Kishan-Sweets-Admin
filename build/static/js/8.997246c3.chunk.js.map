@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/home/index.js"],"names":["Home"],"mappings":"kGAAA,uBAMeA,UAJF,WACX,OAAO","file":"static/js/8.997246c3.chunk.js","sourcesContent":["import React from \"react\";\r\n// import { Card, Container } from \"react-bootstrap\";\r\nconst Home = () => {\r\n  return <div></div>;\r\n};\r\n\r\nexport default Home;\r\n"],"sourceRoot":""}
